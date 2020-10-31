@@ -1,2 +1,2 @@
-# Evaluate-a-news-article-with-Natural-Language-Processing-
-FEND third project Evaluate a news article with Natural Language Processing
+# Evaluate-a-news-article-with-Natural-Language-Processing
+this is the Evaluate a news article with Natural Language Processing udacity FEND nanodegree
